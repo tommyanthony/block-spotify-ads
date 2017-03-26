@@ -6,7 +6,7 @@ This blocks spotify ads.
    folder, then clicking Terminal.
 2. **Once terminal is open, copy and paste the following in and hit enter:**
 ```
-/usr/bin/python -c "$(curl -fsSL https://raw.githubusercontent.com/tommyanthony/block-spotify-ads/master/modify_hosts.py)"
+sudo /usr/bin/python -c "$(curl -fsSL https://raw.githubusercontent.com/tommyanthony/block-spotify-ads/master/modify_hosts.py)"
 ```
 3. **Restart your computer.** This is only sometimes necessary but if it's not
    working then try it.
